@@ -5,8 +5,6 @@
  Could you do it without using any loop / recursion?
  */
 
-import Darwin
-
 class Solution {
     func isPowerOfThree(_ n: Int) -> Bool {
         guard n > 0 else { return false }
